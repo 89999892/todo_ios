@@ -1,0 +1,47 @@
+name: todome
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk:
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bottom_sheet:
+  cupertino_icons:
+  get_storage:
+  get:
+  flutter_local_notifications:
+  flutter_native_timezone:
+  intl:
+  google_fonts:
+  date_picker_timeline:
+  sqflite:
+  flutter_staggered_animations:
+  flutter_svg:
+  rxdart:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/appicon.jpeg"
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - assets/images/person.jpeg
+     - assets/images/appicon.jpeg
+     - assets/images/task.svg
