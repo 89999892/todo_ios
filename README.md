@@ -7,13 +7,42 @@ A beautifully designed ToDo list application built using Flutter with a sleek iO
 
 ---
 
-## ✨ Features
+Features
+✅ iOS Cupertino Design:
 
-- 📋 Create, edit, and delete tasks
-- 🍏 iOS-themed user interface
-- 📱 Responsive UI for different device sizes
-- 🌙 Light/Dark mode support *(if enabled in device settings)*
-- 💾 Persistent task storage *(can be extended with local DB)*
+Native iOS widgets (Cupertino navigation, switches, and dialogs).
+
+System-like animations for adding/removing tasks.
+
+Light/Dark mode support (matches system theme).
+
+✅ Task Management:
+
+Add, edit, and delete todos.
+
+Swipe-to-delete or mark tasks as complete.
+
+
+
+Due date reminders with date picker.
+
+✅ Local Storage:
+
+Tasks persist locally using SQLite.
+
+Efficient data synchronization.
+
+✅ Gestures & Interactions:
+
+Swipe left/right for quick actions.
+
+Smooth transitions between screens.
+
+✅ Additional Features:
+
+Search functionality for filtering tasks.
+
+Clean, adaptive UI for all screen sizes.
 
 ---
 
